@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">JSONVolley_JL</string>
+    <string name="app_name">Julio\'s JSON of French Horns</string>
     <string name="title_item_detail">Item Detail</string>
+    <string name="julio_json_url">https://api.jsonbin.io/b/5f7d024d7243cd7e824bddc2/2</string>
 </resources>
